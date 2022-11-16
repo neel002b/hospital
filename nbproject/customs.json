@@ -1,0 +1,13 @@
+{
+    "elements": {
+        "div": {}
+    },
+    "attributes": {
+        "integrity": {
+            "context": "link"
+        },
+        "focusable": {
+            "context": "svg"
+        }
+    }
+}
